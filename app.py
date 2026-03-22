@@ -28,3 +28,7 @@ initial_sidebar_state="collapsed"
 def main():
       st.markdown("<h1> StoryForge Agent</h1>", unsafe_allow_html=True)
       st.markdown("<h3> A powerful AI agent for content creation and automation.</h3>", unsafe_allow_html=True)
+
+
+      if __name__ == "__main__":
+          main()
